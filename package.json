@@ -2,7 +2,7 @@
   "name": "steal-conditional-interpolation-example",
   "version": "0.0.1",
   "description": "Sample app using steal-conditional string interpolation",
-  "main": "index.js",
+  "main": "app/index.js",
   "scripts": {
     "build": "steal-tools",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,7 +22,7 @@
   "homepage": "https://github.com/m-mujica/steal-conditional-interpolation-example#readme",
   "devDependencies": {
     "steal": "^1.0.0-rc.11",
-    "steal-conditional": "^0.2.1",
+    "steal-conditional": "git@github.com:stealjs/steal-conditional.git#detect-variations",
     "steal-tools": "^1.0.0-rc.9"
   },
   "steal": {
