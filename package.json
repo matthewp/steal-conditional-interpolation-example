@@ -22,10 +22,11 @@
   "homepage": "https://github.com/m-mujica/steal-conditional-interpolation-example#readme",
   "devDependencies": {
     "steal": "^1.0.0-rc.11",
-    "steal-conditional": "^0.2.1",
+    "steal-conditional": "git@github.com:stealjs/steal-conditional.git#detect-variations",
     "steal-tools": "^1.0.0-rc.9"
   },
   "steal": {
+    "npmIgnore": ["path", "glob"],
     "configDependencies": [
       "./node_modules/steal-conditional/conditional"
     ]
