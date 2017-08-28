@@ -1,0 +1,58 @@
+{
+	"steal-conditional-interpolation-example@0.0.1#index": {
+		"dist/bundles/steal-conditional-interpolation-example/index.js": {
+			"weight": 2,
+			"type": "script"
+		}
+	},
+	"locale/ar": {
+		"dist/bundles/steal-conditional-interpolation-example/index.js": {
+			"weight": 2,
+			"type": "script"
+		},
+		"dist/bundles/locale/ar.js": {
+			"weight": 2,
+			"type": "script"
+		}
+	},
+	"locale/en": {
+		"dist/bundles/steal-conditional-interpolation-example/index.js": {
+			"weight": 2,
+			"type": "script"
+		},
+		"dist/bundles/locale/en.js": {
+			"weight": 2,
+			"type": "script"
+		}
+	},
+	"locale/es": {
+		"dist/bundles/steal-conditional-interpolation-example/index.js": {
+			"weight": 2,
+			"type": "script"
+		},
+		"dist/bundles/locale/es.js": {
+			"weight": 2,
+			"type": "script"
+		}
+	},
+	"locale/hi": {
+		"dist/bundles/steal-conditional-interpolation-example/index.js": {
+			"weight": 2,
+			"type": "script"
+		},
+		"dist/bundles/locale/hi.js": {
+			"weight": 2,
+			"type": "script"
+		}
+	},
+	"locale/zh": {
+		"dist/bundles/steal-conditional-interpolation-example/index.js": {
+			"weight": 2,
+			"type": "script"
+		},
+		"dist/bundles/locale/zh.js": {
+			"weight": 2,
+			"type": "script"
+		}
+	}
+}
